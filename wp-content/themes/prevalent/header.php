@@ -99,7 +99,7 @@
 <?php } } elseif (is_product_category()) {?>
   
     <div id="inner-slider">
-      <img src="http://localhost/travel/wp-content/themes/prevalent/images/slides/slider-default.jpg">
+      <img src="/wp-content/themes/prevalent/images/slides/slider-default.jpg">
       <div class="nivo-caption">
        <div class="slide_info">
            <h2> <?php
