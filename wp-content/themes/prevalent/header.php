@@ -25,7 +25,7 @@
                         <?php $description = get_bloginfo( 'description', 'display' );
 						if ( $description || is_customize_preview() ) : ?>
 							
-              <span class="header-phone" ><img class="mob-logo"src="wp-content/uploads/2018/01/Whatsapp-Icon-Logo.png"><a  class="phone-link" href="tel:9810494888">+91-98104948888</a></span>
+              <span class="header-phone" ><img class="mob-logo working"src="/wp-content/uploads/2018/01/Whatsapp-Icon-Logo.png"><a  class="phone-link" href="tel:9810494888">+91-98104948888</a></span>
               
 						<?php endif; ?> 
             </div><!-- logo -->
